@@ -1,0 +1,2 @@
+def merge(list):
+    dsafdasdsafadssaf
