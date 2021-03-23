@@ -1,3 +1,6 @@
+#This program is a sorting algorithm, that includes the "bubble" element. Essentially what it does, is it groups 2 numbers together, and you switch them if the number
+    #on the left is bigger than the number on the right. 
+
 def bubble_sort(nums):
     for i in range(len(nums)-1,-1,-1):
         for j in range(0,i):
